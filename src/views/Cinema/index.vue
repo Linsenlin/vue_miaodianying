@@ -1,6 +1,6 @@
 <template>
   <div id="main">
-    <Header title="喵喵影院"/>
+    <Header title="喵喵影院" />
     <div id="content">
       <div class="cinema_menu">
         <div class="city_switch">
@@ -16,9 +16,9 @@
           <i class="iconfont icon-lower-triangle"></i>
         </div>
       </div>
-      <CiList/>
+      <CiList />
     </div>
-    <TabBar/>
+    <TabBar />
   </div>
 </template>
 
